@@ -1,6 +1,6 @@
 "use client"
 import Link from "next/link";
-import { Container, Content, ContentItem, Header, Navigation } from "./style";
+import { Container, Content, ContentItem, Header, Navigation } from "../style";
 
 
 export default function Home() {

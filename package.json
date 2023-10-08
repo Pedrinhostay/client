@@ -14,6 +14,7 @@
     "next-auth": "^4.23.2",
     "react": "latest",
     "react-dom": "latest",
+    "react-hook-form": "^7.47.0",
     "styled-components": "^6.0.8"
   },
   "devDependencies": {
